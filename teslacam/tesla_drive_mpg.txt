@@ -1,0 +1,8 @@
+Tesla model 3 drive stats
+
+Drive 1 round trip. 50f, light rain.
+	home to dest:
+	31 miles, 8 kWh, 264 Wh/mile
+	dest to home:
+	32 miles, 11 kWh, 337 Wh/mile
+

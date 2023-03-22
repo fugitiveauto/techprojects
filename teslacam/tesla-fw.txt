@@ -1,0 +1,14 @@
+history of the firmware update versions in 2021 tesla model 3
+
+10/19/2022 - 2022.28.2
+12/07/2022 - 2022.40.4.2
+12/07/2022 - 2022.44.2
+12/26/2022 - 2022.44.25.3
+01/12/2023 - Subscribe FSD, Enrolled in FSD Beta queue. Currently on: v11.1 (2022.44.25.3) NA-2022.28-14046
+01/14/2023 - Enrolled in FSD and updated to: FSD Beta 10.69.25.1 (2022.44.30.5) NA-2022.28-14046
+01/23/2023 - Updated to FSD Beta 10.69.25.2 (2022.44.30.10)
+03/21/2023 - Still on 2022.44.30.10. iPhone app version: 4.19.0-1639 - 5eafa0e61b
+
+
+
+

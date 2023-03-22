@@ -1,0 +1,26 @@
+Notes on how to develop ROM applications for Nintendo NES
+
+
+To workaround Windows defender with NES 6502 compiler:
+Add-MpPreference -AttackSurfaceReductionOnlyExclusions "C:\cc65\bin\*.exe"
+
+
+
+Best NES development links:
+
+NesHacker NES Development Environment
+https://www.youtube.com/watch?v=RtY5FV5TrIU&t=33s
+
+
+
+Displaced Gamers -  NES Mapper History to 1988 and Blaster Master Code Analysis - Talkin' Code Ep. 1 
+https://www.youtube.com/watch?v=EhO_iHkUkE0&list=PLn5sTGew1WGD5NUstpfwYdLfrmLJOHCSw
+
+Displaced Gamers -  Cartridge Games - Versions, Bugs, and Behind the Code: A Sampler 
+https://www.youtube.com/watch?v=gTfPLl_AJvs&list=PLn5sTGew1WGD2Tnspn9vhpLGf-kqDRbYy
+
+
+NES Dev wiki and forum
+https://forums.nesdev.org/
+https://www.nesdev.org/wiki/Nesdev_Wiki
+

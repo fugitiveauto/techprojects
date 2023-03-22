@@ -1,3 +1,18 @@
+
+
+
+event.json - saved along with video files
+{
+	"timestamp":"2023-02-26T18:45:50",
+	"city":"Springfield",
+	"est_lat":"40.1234",
+	"est_lon":"-120.1234",
+	"reason":"user_interaction_dashcam_launcher_action_tapped",
+	"camera":"0"
+}
+
+
+Camera key:
 0 = front camera
 1 = fisheye
 2 = narrow
@@ -7,3 +22,42 @@
 6 = right B pillar
 7 = rear
 8 = cabin
+
+
+Sample folder for tesla cam video:
+dir 2023-02-26_18-45-53
+02/26/2023  07:42 PM        32,639,275 2023-02-26_18-41-23-back.mp4
+02/26/2023  07:42 PM        27,364,273 2023-02-26_18-41-23-front.mp4
+02/26/2023  07:42 PM        29,278,725 2023-02-26_18-41-23-left_repeater.mp4
+02/26/2023  07:42 PM        27,141,832 2023-02-26_18-41-23-right_repeater.mp4
+02/26/2023  07:43 PM        39,088,807 2023-02-26_18-42-24-back.mp4
+02/26/2023  07:43 PM        38,888,866 2023-02-26_18-42-24-front.mp4
+02/26/2023  07:43 PM        38,824,045 2023-02-26_18-42-24-left_repeater.mp4
+02/26/2023  07:43 PM        38,867,909 2023-02-26_18-42-24-right_repeater.mp4
+02/26/2023  07:44 PM        39,128,678 2023-02-26_18-43-26-back.mp4
+02/26/2023  07:44 PM        38,894,639 2023-02-26_18-43-26-front.mp4
+02/26/2023  07:44 PM        38,844,235 2023-02-26_18-43-26-left_repeater.mp4
+02/26/2023  07:44 PM        38,859,988 2023-02-26_18-43-26-right_repeater.mp4
+02/26/2023  07:45 PM        38,418,426 2023-02-26_18-44-28-back.mp4
+02/26/2023  07:45 PM        38,789,995 2023-02-26_18-44-28-front.mp4
+02/26/2023  07:45 PM        38,809,900 2023-02-26_18-44-28-left_repeater.mp4
+02/26/2023  07:45 PM        38,488,600 2023-02-26_18-44-28-right_repeater.mp4
+02/26/2023  07:45 PM        14,056,804 2023-02-26_18-45-29-back.mp4
+02/26/2023  07:45 PM        14,083,804 2023-02-26_18-45-29-front.mp4
+02/26/2023  07:45 PM        14,088,166 2023-02-26_18-45-29-left_repeater.mp4
+02/26/2023  07:45 PM        14,076,128 2023-02-26_18-45-29-right_repeater.mp4
+02/26/2023  07:45 PM               186 event.json
+02/26/2023  07:48 PM            24,852 thumb.png
+
+
+Video codec info on front camera video .mp4:
+	Codec: H264 - MPEG-4 AVC (part 10) (avc1)
+	Type: Video
+	Video Resolution: 1280x960
+	Frame rate: 36.010432
+
+thumb.png info:
+	Type: PNG file
+	Size: 128 x 96
+	96 dpi
+	32 bit
