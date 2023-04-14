@@ -1,0 +1,14 @@
+https://innovatorsguru.com/zp13-smoke-detector-module-for-arduino/
+
+ZP13 Pinout
+Pin	Pin Name	Function
+1	GND	Input power –
+2	5V	Input power +
+3	A	Output A
+4	B	Output B
+Output Signal
+Grade	Output A	Output B	Pollution Grade
+0	0V	0V	Clean
+1	0V	+5V	Light pollution
+2	+5V	0V	Moderate pollution
+3	+5V	+5V	Severe pollution

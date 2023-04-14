@@ -1,0 +1,35 @@
+Tesla Superchargers
+
+There are three versions of Tesla Supercharger: V1, V2, V3
+
+Most current superchargers circa 2023 are V2 or V2.
+
+V1 Superchargers:
+Max 100 KW
+I've never actually seen one
+They are more boxy than the rounded V2/V3
+
+
+V2 Superchargers:
+Thick cable - almost 2 inch diameter
+Max 150 KW
+Calculated power: 74kw (410v * 270a * 0.67)
+Label info:
+	Rated Voltage: 410 VDC
+	Rated Current: 270 A
+	Duty cycle: 67% (Ton = 20min)
+	Operating temp: -30c to +25c
+	Enclosure IP-CODE: IP44
+	Transmitter model: 1023049
+
+
+V3 Superchargers:
+Thin cable - about 3/4 inch diameter
+Max 250 KW
+Calculated power: 175kw (500v * 350a * 1.0)
+Label info:
+	Rated Voltage: 500 VDC
+	Rated Current: 350 A
+	Duty cycle: 100%
+	Operating temp: -30c to +40c
+	Enclosure: IP44; RAINPROOF
