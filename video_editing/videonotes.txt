@@ -1,0 +1,14 @@
+video editing notes
+
+
+how to capture PC screen output as video
+- obs studio
+works great, can capture windows desktop, capture videos from youtube, captures audio too
+add sources: display capture
+need to capture whole screen. can zoom in the red box if only needing a subset
+
+How to edit videos
+- shotcut
+
+How to watch videos
+- vlc
