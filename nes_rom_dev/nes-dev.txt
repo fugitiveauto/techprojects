@@ -24,3 +24,17 @@ NES Dev wiki and forum
 https://forums.nesdev.org/
 https://www.nesdev.org/wiki/Nesdev_Wiki
 
+
+https://github.com/jeffqchen/Famicom-Expansion-Port-Switcher
+
+
+https://misteraddons.com
+Bought a famicom NES controller adaptor here
+
+https://www.retrorgb.com/
+Lots of cables/accessories
+
+
+Famicom disk system drive emulator
+USB device that plugs into RAM adaptor to play ROMS
+https://3dscapture.com/fdsstick/
